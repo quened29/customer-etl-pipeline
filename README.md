@@ -87,3 +87,9 @@ After the transformation and deduplication process:
 
 Invalid email addresses are flagged during the validation process and do not prevent the dataset from being loaded.
 
+## Power BI Dashboard
+
+The dashboard provides an overview of customer demographics, registration trends, customer tenure, and email data quality.
+
+![Customer Analytics Dashboard](dashboard/Customer_Analytics_Dashboard.png)
+
